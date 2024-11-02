@@ -8,6 +8,7 @@ public class Oct3Lab3 {
 		int a=9;
 		int b =8;
 		System.out.println("a+b=17");
+		System.out.println("a-b=1");
 		
 		
 	}
